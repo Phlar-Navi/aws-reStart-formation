@@ -1,3 +1,4 @@
+#J'ai effectue des modifications dans ce fichier
 import random
 
 isGuessRight = False
